@@ -16,3 +16,5 @@ These are my attempts to [Advent Of Code](https://adventofcode.com/) challenges 
 - [x] Day 4 Part 2
 - [x] Day 5 Part 1
 - [x] Day 5 Part 2
+- [x] Day 6 Part 1
+- [x] Day 6 Part 2
