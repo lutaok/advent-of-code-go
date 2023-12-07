@@ -9,6 +9,7 @@ import (
 	aoc2023day4 "github.com/lutaok/advent-of-code-go/2023/day4"
 	aoc2023day5 "github.com/lutaok/advent-of-code-go/2023/day5"
 	aoc2023day6 "github.com/lutaok/advent-of-code-go/2023/day6"
+	aoc2023day7 "github.com/lutaok/advent-of-code-go/2023/day7"
 )
 
 func main() {
@@ -20,4 +21,5 @@ func main() {
 	fmt.Printf("Day 4 -> %d \n", aoc2023day4.CalculateWinningCardPoints())
 	fmt.Printf("Day 5 -> %d \n", aoc2023day5.LowestSeedNumber())
 	fmt.Printf("Day 6 -> %d \n", aoc2023day6.BoatRaces())
+	fmt.Printf("Day 7 -> %d \n", aoc2023day7.CamelCards())
 }
