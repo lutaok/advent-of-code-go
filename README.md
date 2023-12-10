@@ -24,3 +24,4 @@ These are my attempts to [Advent Of Code](https://adventofcode.com/) challenges 
 - [x] Day 8 Part 2
 - [x] Day 9 Part 1
 - [x] Day 9 Part 2
+- [x] Day 10 Part 1
