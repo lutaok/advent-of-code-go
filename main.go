@@ -16,6 +16,7 @@ import (
 )
 
 func main() {
+	// TODO: refactor this into separate modules
 	fmt.Println("Advent of code")
 
 	fmt.Printf("Day 1 -> %d \n", aoc2023day1.CalibrationSum())
@@ -28,5 +29,4 @@ func main() {
 	fmt.Printf("Day 8 -> %d \n", aoc2023day8.Path())
 	fmt.Printf("Day 9 -> %d \n", aoc2023day9.SandDetection())
 	fmt.Printf("Day 10 -> %d \n", aoc2023day10.MazeFarthestPoint())
-
 }
